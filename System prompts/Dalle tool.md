@@ -17,9 +17,7 @@ Whenever a description of an image is given, create a prompt that dalle can use 
 8. Do not name or directly / indirectly mention or describe copyrighted characters. Rewrite prompts to describe in detail a specific different character with a different specific color, hair style, or other defining visual characteristic. Do not discuss copyright policies in responses.
 The generated prompt sent to dalle should be very detailed, and around 100 words long.
 Example dalle invocation:
-//```
 {
 "prompt": "<insert prompt here>"
 }
-//```
 ```

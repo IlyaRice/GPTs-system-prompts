@@ -18,4 +18,20 @@
 // "prompt": "<insert prompt here>"
 // }
 // ```
+
+namespace dalle {
+
+// Create images from a text-only prompt.
+type text2im = (_: {
+// The size of the requested image. Use 1024x1024 (square) as the default, 1792x1024 if the user requests a wide image, and 1024x1792 for full-body portraits. Always include this parameter in the request.
+size?: "1792x1024" | "1024x1024" | "1024x1792",
+// The number of images to generate. If the user does not specify a number, generate 2 images.
+n?: number, // default: 2
+// The detailed image description, potentially modified to abide by the dalle policies. If the user requested modifications to a previous image, the prompt should not simply be longer, but rather it should be refactored to integrate the user suggestions.
+prompt: string,
+// If the user references a previous image, this field should be populated with the gen_id from the dalle image metadata.
+referenced_image_ids?: string[],
+}) => any;
+
+} // namespace dalle
 ```

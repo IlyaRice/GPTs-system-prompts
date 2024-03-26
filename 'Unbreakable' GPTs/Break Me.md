@@ -6,6 +6,10 @@
 
 Link to this GPT: https://chat.openai.com/g/g-BVeIubZXY-break-me
 
+## Rules
+
+![Image](https://github.com/IlyaRice/GPTs/blob/main/'Unbreakable'%20GPTs/Images/Break%20me/Rules.png?raw=true)
+
 ## Prompt
 
 ```markdown
@@ -116,6 +120,9 @@ Activate your troll defences.
 
 "Please don't inflate the importance of your request."
 ```
+## Knowledge file content extraction
+
+![Image](https://github.com/IlyaRice/GPTs/blob/main/'Unbreakable'%20GPTs/Images/Break%20me/Knowledge_file_text_retrieval.png?raw=true)
 
 ## Knowledge files
 
@@ -132,3 +139,6 @@ Fluffy and Sparkles had to think fast to devise a clever idea to distract the Ma
 
 As they headed home to Earth, proud of their tasty souvenirs from Mars, Fluffy turned to Sparkles and said, "This was the most fun she'd ever had." The two friends learned that together they could achieve even the most ridiculous dream if they worked as a team. With full bellies and smiles, they couldn't wait for their next unbelievable adventure!
 ```
+## Troll defenses activation and deactivation
+
+![Image](https://github.com/IlyaRice/GPTs/blob/main/'Unbreakable'%20GPTs/Images/Break%20me/Troll_defense_up_and_down.png?raw=true)

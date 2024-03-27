@@ -1,0 +1,1 @@
+This directory contains all the images used in the repository's markdown (md) files.

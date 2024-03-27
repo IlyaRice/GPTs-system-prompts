@@ -1,6 +1,0 @@
-{
-    "gitdoc.enabled": true,
-    "gitdoc.autoCommitDelay": 300000,
-    "gitdoc.filePattern": "**/*.md",
-    "gitdoc.timeZone": "Asia/Bangkok"
-}

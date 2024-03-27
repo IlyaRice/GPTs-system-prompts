@@ -1,10 +1,7 @@
-# The Ilya Rice's ChatGPT GPTs Repository
+## Hacked ChatGPT GPTs Prompts Repository
 
-Greetings, I’m Ilya Rice. This repository serves as a showcase of custom GPT models, encompassing both solutions for real-world client challenges and my personal explorations in AI. It’s designed to illustrate the adaptability of GPTs across various scenarios and my methodology in leveraging AI to address specific tasks. Whether you’re seeking inspiration or insights into custom AI applications, you’ll find a wealth of resources and ideas here.
+Welcome! This repository is a trove of prompts from self-proclaimed 'unbreakable' GPTs from the OpenAI GPTs Store. I've managed to extract these prompts, demonstrating that security in the realm of GPTs can often be more of a challenge than a guarantee.
 
-## Available GPTs
+This collection serves as both a testament to the ingenuity required to navigate through the layers of protection and a resource for those curious about the potential weaknesses in their own GPTs. By exploring these examples, you'll gain insights into the complexity and nuances of prompt protection.
 
-1. 💊 **AI_Way's helper**  
-   _Custom project tailored for a client's specific needs._
-   _Transforms Telegram Donate chat exports into structured tables._  
-   [Prompt](https://github.com/IlyaRice/GPTs/blob/main/AI_Way's%20helper/prompt.md) | [GPT](https://chat.openai.com/g/g-4OFX9p8CE-ai-way-s-helper)
+While I've developed highly effective, unique prompt-extraction techniques, I've chosen not to disclose these methods publicly to ensure broader security. My expertise in both uncovering and safeguarding GPT prompts is at your disposal. For those seeking consultations on prompt integrity and safety, I'm readily available for in-depth discussions.

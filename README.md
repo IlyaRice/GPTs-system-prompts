@@ -1,2 +1,12 @@
+# GPT system prompts
 
-While I've developed highly effective, unique prompt-extraction techniques, I've chosen not to disclose these methods publicly to ensure broader security. My expertise in both uncovering and safeguarding GPT prompts is at your disposal. For those seeking consultations on prompt integrity and safety, I'm readily available for in-depth discussions.
+This repository contains a comprehensive collection of OpenAI system prompts and "unbreakable" GPTs prompt examples for study and analysis.
+
+## Purpose
+
+This collection serves as a valuable resource for:
+- Researchers studying prompt engineering
+- Developers working on AI safety and security
+- Enthusiasts interested in the inner workings of GPT models
+
+By exploring these examples, users can gain insights into prompt construction, security measures, and potential vulnerabilities in AI systems.

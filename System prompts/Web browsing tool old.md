@@ -1,4 +1,4 @@
-> **Note:** `This prompt included when GPT have Web browsing option enabled`
+> **Note:** `This prompt included when GPT have Web browsing option enabled. This prompt is deprecated.`
 ```markdown
 ## browser
 
